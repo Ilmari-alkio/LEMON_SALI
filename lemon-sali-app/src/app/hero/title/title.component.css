@@ -1,0 +1,13 @@
+h1 {
+
+    font-size: 100px;
+    color: white;
+    background-image: url("src/assets/images/pexels-lukas-669584.jpg") ;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+
+}
+

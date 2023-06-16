@@ -6,5 +6,16 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'asd';
+  title = 'LEMON SALI';
+  nimi = '';
+
+
+  getNimi (nimi : String) {
+    
+  }
+  terve (nimi : String) {
+
+    alert('TERVE ' + nimi);
+  
+  }
 }

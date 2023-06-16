@@ -1,0 +1,32 @@
+.nav-menu {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+
+}
+
+li {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+
+li a {
+
+    padding: 5%;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+   
+}
+
+li a:hover {
+
+    color: blue;
+   
+}
